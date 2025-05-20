@@ -24,7 +24,8 @@ I'm currently training as a **web developer** at **Simplon**, with a passion for
 📫 Feel free to **connect** or **follow along**!
 
 
-> _"It’s faster to say World Wide Web than <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" title="WWW"</a>."_
+> _"It’s faster to say World Wide Web than (https://www.youtube.com/watch?v=dQw4w9WgXcQ "WWW")
+."_
 
 ## 🧠 About
 Web developer in training at Simplon. Front-end enthusiast, curious and aiming to become full-stack.
