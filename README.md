@@ -14,7 +14,11 @@ Here are some ideas to get you started:
 -->
 
 
-# 🚀 tuirz — 👋 Hi! I'm currently training as a web developer with Simplon, with a strong interest in front-end and a goal to become a full-stack developer.  💻 I'm learning JavaScript and exploring React, Node.js, APIs, and databases.  🎯 Curious and motivated, I love understanding how things work and building real, useful projects.  🚀 Here you'll find my learning projects, experiments, and soon more complete apps!  📫 Feel free to reach out or follow my journey!
+# 🚀 tuirz — 👋 Hi! I'm currently training as a web developer with Simplon, with a strong interest in front-end and a goal to become a full-stack developer.
+💻 I'm learning JavaScript and exploring React, Node.js, APIs, and databases.
+🎯 Curious and motivated, I love understanding how things work and building real, useful projects.
+🚀 Here you'll find my learning projects, experiments, and soon more complete apps!
+📫 Feel free to reach out or follow my journey!
 
 > _""It’s faster to say World Wide Web than WWW.""_
 
