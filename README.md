@@ -26,9 +26,6 @@ I'm currently training as a **web developer** at **Simplon**, with a passion for
 
 > _"It’s faster to say World Wide Web than [WWW](https://www.youtube.com/watch?v=dQw4w9WgXcQ "WWW")."_
 
-## 🧠 About
-Web developer in training at Simplon. Front-end enthusiast, curious and aiming to become full-stack.
-
 ## 🔧 Tech Stack
 
 <p align="left">
@@ -43,6 +40,9 @@ Web developer in training at Simplon. Front-end enthusiast, curious and aiming t
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code" />
 </p>
+
+## 🧠 About
+Web developer in training at Simplon. Front-end enthusiast, curious and aiming to become full-stack.
 
 <!--
 ## 🧪 Projet préféré
