@@ -15,27 +15,40 @@ Here are some ideas to get you started:
 
 
 # 🚀 tuirz .french dev —
-## 👋 Hi! I'm currently training as a web developer with Simplon, with a strong interest in front-end and a goal to become a full-stack developer.
-💻 I'm learning JavaScript and exploring React, Node.js, APIs, and databases.
-🎯 Curious and motivated, I love understanding how things work and building real, useful projects.
-🚀 Here you'll find my learning projects, experiments, and soon more complete apps!
-📫 Feel free to reach out or follow my journey!
 
-> _""It’s faster to say World Wide Web than WWW.""_
+## 👋 Hello!  
+I'm currently training as a **web developer** at **Simplon**, with a passion for **front-end development** and a clear goal to become a **full-stack developer**.  
+💻 I’m actively learning **JavaScript** and diving into **React, Node.js, APIs, and databases**.  
+🎯 Curious and driven, I enjoy understanding how things work and creating **real, meaningful projects**.  
+🚀 This space showcases my learning journey, experiments, and soon, more complete apps!  
+📫 Feel free to **connect** or **follow along**!
+
+
+> _"It’s faster to say World Wide Web than WWW."_
 
 ## 🧠 About
 Web developer in training at Simplon. Front-end enthusiast, curious and aiming to become full-stack.
 
-## 🔧 Technologies utilisées
-HTML, CSS, JavaScript, WordPress, React, Figma
+## 🔧 Tech Stack
 
-<-- ## 🧪 Projet préféré
-[Incoming](https://github.com/tuirz/incoming) -->
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="40" alt="WordPress" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" alt="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code" />
+</p>
+
+<!--
+## 🧪 Projet préféré
+[Incoming](https://github.com/tuirz/incoming)
+-->
 
 ## 📬 Contact
-sou.lui@icloud.com
-
----
-
-
-
+📧 sou.lui@icloud.com
