@@ -49,5 +49,7 @@ Web developer in training at Simplon. Front-end enthusiast, curious and aiming t
 [Incoming](https://github.com/tuirz/incoming)
 -->
 
-<-- ## 📬 Contact
-📧 sou.lui@icloud.com -->
+<!--
+## 📬 Contact
+📧 sou.lui@icloud.com
+-->
