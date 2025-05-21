@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 -->
 
 
-# 🚀 tuirz .french dev —
+# 🚀 tuirz .french dev — ![Vues du profil](https://komarev.com/ghpvc/?username=tuirz&label=Vues%20du%20profil&color=0e75b6&style=flat)
+
 
 ## Hi 🤙🏼
 I'm currently training as a **web developer** at **Simplon**, with a passion for **front-end development** and a clear goal to become a **full-stack developer**.  
