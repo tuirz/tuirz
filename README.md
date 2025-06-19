@@ -63,4 +63,3 @@ Web developer in training at Simplon. Front-end enthusiast, curious and aiming t
 ## 📬 Contact
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/luigi-soufar)
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tuirzz@icloud.com)
