@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 
 # 🚀 tuirz .french dev — ![Vues du profil](https://komarev.com/ghpvc/?username=tuirz&label=Vues%20du%20profil&color=0e75b6&style=flat)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tuirz&show_icons=true&theme=tokyonight)
 
 
 ## Hi 🤙🏼
@@ -29,15 +30,24 @@ I'm currently training as a **web developer** at **Simplon**, with a passion for
 
 ## 🔧 Tech Stack
 
+### 🖥️ Front-end
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" alt="Tailwind CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="40" alt="WordPress" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" alt="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="40" alt="WordPress" />
+</p>
+
+### 🛠️ Back-end
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
+</p>
+
+### ⚙️ Tools & Others
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code" />
 </p>
@@ -45,12 +55,12 @@ I'm currently training as a **web developer** at **Simplon**, with a passion for
 ## 🧠 About
 Web developer in training at Simplon. Front-end enthusiast, curious and aiming to become full-stack.
 
-<!--
-## 🧪 Projet préféré
-[Incoming](https://github.com/tuirz/incoming)
--->
+## 🚩 Featured Projects
 
-<!--
+- [Garage du Turfu 🚗🤖](https://github.com/tuirz/garage-du-turfu)  
+  OOP prototype, vehicle and robot pet management, modular and fun.
+
 ## 📬 Contact
-📧 sou.lui@icloud.com
--->
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/luigi-soufar)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tuirzz@icloud.com)
