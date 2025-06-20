@@ -25,7 +25,7 @@ I'm currently training as a **web developer** at **Simplon**, with a passion for
 🚀 This space showcases my learning journey, experiments, and soon, more complete apps!  
 📫 Feel free to **connect** or **follow along**!
 
-
+## 🐰 Fun Fact
 > _"It’s faster to say World Wide Web than [WWW](https://www.youtube.com/watch?v=dQw4w9WgXcQ "WWW")."_
 
 ## 🔧 Tech Stack
@@ -44,6 +44,7 @@ I'm currently training as a **web developer** at **Simplon**, with a passion for
 ### 🛠️ Back-end
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" alt="Supabase" />
 </p>
 
 ### ⚙️ Tools & Others
@@ -57,7 +58,7 @@ Web developer in training at Simplon. Front-end enthusiast, curious and aiming t
 
 ## 🚩 Featured Projects
 
-- [Garage du Turfu 🚗🤖](https://github.com/tuirz/garage-du-turfu)  
+- [Garage du Turfu 🚗🤖](https://github.com/tuirz/TurfuGarage.git)  
   OOP prototype, vehicle and robot pet management, modular and fun.
 
 ## 📬 Contact
