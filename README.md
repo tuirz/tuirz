@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-# 🚀 tuirz .french dev — ![Vues du profil](https://komarev.com/ghpvc/?username=tuirz&label=Vues%20du%20profil&color=0e75b6&style=flat)
+# 🚀 tuirz .french_dev — ![Vues du profil](https://komarev.com/ghpvc/?username=tuirz&label=Vues%20du%20profil&color=0e75b6&style=flat)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tuirz&show_icons=true&theme=tokyonight)
 
 
